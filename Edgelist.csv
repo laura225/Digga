@@ -1,7 +1,7 @@
 from,to,weight,relationship,activity
 frsa,lulu,3,2,1
 frsa,sagi,3,2,1
-frsa,caga,2,2,1
+frsa,caga1,2,2,1
 frsa,paca,1,2,1
 frsa,jogo,1,2,1
 frsa,vige,2,2,1
@@ -16,13 +16,13 @@ frsa,anbr,1,2,1
 frsa,sagr,1,2,1
 frsa,alan,2,2,1
 frsa,vigi,1,2,1
-frsa,pego,1,2,1
+frsa,pego2,1,2,1
 frsa,caga,1,2,1
 frsa,toac,1,2,1
 lulu,mela,3,2,1
 lulu,frco,3,2,1
-caga,paca,3,3,1
-caga,alan,3,2,1
+caga1,paca,3,3,1
+caga1,alan,3,2,1
 jogo,sagr,3,2,1
 jogo,pego,3,3,1
 vige,frco,3,2,1
